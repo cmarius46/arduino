@@ -6,7 +6,7 @@
 
 /* Put your SSID & Password */
 const char* ssid = "NodeMCU";  // Enter SSID here
-const char* password = "12345678";  //Enter Password here
+const char* password = "pass123";  //Enter Password here
 
 /* Put IP Address details */
 IPAddress local_ip(192,168,1,1);

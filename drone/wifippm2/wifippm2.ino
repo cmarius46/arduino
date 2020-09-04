@@ -19,8 +19,8 @@
 #define sigPin 5 //set PPM signal output pin on the arduino
 #define DEBUGPIN 4
 
-const char *ssid = "WifiPPMnou";
-const char *password = "Wifi_PPM";
+const char *ssid = "WifiPP";
+const char *password = "bigPP";
 
 volatile unsigned long next;
 volatile unsigned int ppm_running=1;

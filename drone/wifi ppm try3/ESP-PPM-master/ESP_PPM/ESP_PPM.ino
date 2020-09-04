@@ -6,7 +6,7 @@
 #include <WebSocketsServer.h>
 #include <DNSServer.h>
 #include <Hash.h>
-#include "MSP.h"
+#include "./MSP.h"
 
 /* Set these to your desired credentials. */
 
